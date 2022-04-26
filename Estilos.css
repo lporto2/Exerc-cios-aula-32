@@ -49,6 +49,7 @@ body{
     font-size:20px;
     border-radius: 15px;
     transition: 1.5s;
+    margin-top:5px;
 }
 
 .button:hover{
